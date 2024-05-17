@@ -1,5 +1,10 @@
 # CCAC 2024 - NCAA Ticket Purchase Prediction
 
+## Presentation and Slides
+[Presentation link](https://drive.google.com/file/d/1nVMZ780WArmfHyFqITlZHtlnGSUP2Bg9/view?usp=sharing)  
+
+[Slides link](https://docs.google.com/presentation/d/1i-KVQzXanT0SfhRjwV1aqqgu0bAAZTpw/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)
+
 ## Overview
 The NCAA conducts 90 championships annually across three divisions and over twenty sports. To enhance and celebrate the student-athletes’ experience, as well as offset the cost of the championships, the NCAA actively markets and sells tickets to the events. As part of the marketing efforts, the NCAA maintains a list of past and potential customers.
 
