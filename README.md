@@ -3,7 +3,7 @@
 ## Deliverables
 [Presentation link](https://drive.google.com/file/d/1nVMZ780WArmfHyFqITlZHtlnGSUP2Bg9/view?usp=sharing)  
 
-[Slides link](https://docs.google.com/presentation/d/1i-KVQzXanT0SfhRjwV1aqqgu0bAAZTpw/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)
+[Slides link](https://drive.google.com/file/d/1faayuaZW6jdqZgT-l1qpTbKSEE9JuW2p/view?usp=sharing)
 
 [Kaggle link](https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-24/leaderboard?tab=public) 
 
